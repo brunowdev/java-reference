@@ -14,3 +14,6 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 <h2 id="classLoader">ClassLoader and Javassist</h2>
 
 * [Adding annotations dynamically using Javassist byte-code editor (April 27, 2017)](https://prismoskills.appspot.com/lessons/Super_Java/Dynamically_adding_annotations.jsp)
+
+* [Inserting code at runtime using Javassist byte-code editor (April 27, 2017)](https://prismoskills.appspot.com/lessons/Super_Java/Insert_code_at_runtime.jsp)
+
