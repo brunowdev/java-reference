@@ -1,6 +1,6 @@
-# Oracle Database
+# Java Reference
 
-Este repositório contém dicas e exemplos do banco de dados Oracle.
+Este repositório contém referências sobre alguns tópicos importantes do Java, JavaEE.
 
 ## Tópicos
 
