@@ -5,9 +5,10 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 ## Tópicos
 
 1. [Java 9](#java9)
-2. [WebSocket](#wsocket)
-3. [ClassLoader and Javassist](#classLoader)
-4. [Schedule Tasks](#stask)
+2. [Java EE 8](#javaee8)
+3. [WebSocket](#wsocket)
+4. [ClassLoader and Javassist](#classLoader)
+5. [Schedule Tasks](#stask)
 
 <h2 id="java9">Java 9</h2>
 
