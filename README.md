@@ -6,6 +6,7 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 
 1. [WebSocket](#wsocket)
 2. [ClassLoader and Javassist](#classLoader)
+3. [Schedule Tasks](#stask)
 
 <h2 id="wsocket">WebSocket</h2>
 
@@ -17,3 +18,6 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 
 * [Inserting code at runtime using Javassist byte-code editor (April 27, 2017)](https://prismoskills.appspot.com/lessons/Super_Java/Insert_code_at_runtime.jsp)
 
+<h2 id="stask">Schedule Tasks</h2>
+
+* [Using the Timer Class to Schedule Tasks (April 27, 2017)](https://dzone.com/articles/using-timer-class-to-schedule-tasks)
