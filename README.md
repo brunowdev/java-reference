@@ -4,9 +4,14 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 
 ## Tópicos
 
-1. [WebSocket](#wsocket)
-2. [ClassLoader and Javassist](#classLoader)
-3. [Schedule Tasks](#stask)
+1. [Java 9](#java9)
+2. [WebSocket](#wsocket)
+3. [ClassLoader and Javassist](#classLoader)
+4. [Schedule Tasks](#stask)
+
+<h2 id="java9">Java 9</h2>
+
+* [Java 9 (Part 5): Flow With the New Reactive Streams, First Look (May 1, 2017)](https://dzone.com/articles/java-9-tutorial-flow-with-the-new-reactive-streams)
 
 <h2 id="wsocket">WebSocket</h2>
 
