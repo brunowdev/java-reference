@@ -9,6 +9,7 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 3. [WebSocket](#wsocket)
 4. [ClassLoader and Javassist](#classLoader)
 5. [Schedule Tasks](#stask)
+6. [A Little Lazy Lambda Tutorial](#lambda)
 
 <h2 id="java9">Java 9</h2>
 
@@ -27,3 +28,7 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 <h2 id="stask">Schedule Tasks</h2>
 
 * [Using the Timer Class to Schedule Tasks (April 27, 2017)](https://dzone.com/articles/using-timer-class-to-schedule-tasks)
+
+<h2 id="stask">Lambda</h2>
+
+* [A Little Lazy Lambda Tutorial (May 1, 2017)](https://dzone.com/articles/a-little-lazy-lambda-tutorial)
