@@ -2,6 +2,10 @@
 
 Este repositório contém referências sobre alguns tópicos importantes do Java, JavaEE.
 
+## Canais, Blogs, Sites, etc.
+
+1. [Canal SouJava](https://www.youtube.com/channel/UCH0qj1HFZ9jy0w87YfMSA7w)
+
 ## Tópicos
 
 1. [Java 9](#java9)
