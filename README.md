@@ -14,6 +14,7 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 4. [ClassLoader and Javassist](#classLoader)
 5. [Schedule Tasks](#stask)
 6. [A Little Lazy Lambda Tutorial](#lambda)
+7. [CDI](#cdi)
 
 <h2 id="java9">Java 9</h2>
 
@@ -37,3 +38,7 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 <h2 id="stask">Lambda</h2>
 
 * [A Little Lazy Lambda Tutorial (May 1, 2017)](https://dzone.com/articles/a-little-lazy-lambda-tutorial)
+
+<h2 id="cdi">CDI - Contexts & Dependency Injection for Java</h2>
+
+* [CDI Specification (1.0, 1.1, 1.2, 2.0)(May 20, 2017)](http://www.cdi-spec.org/download/)
