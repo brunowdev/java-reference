@@ -54,5 +54,3 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 
 * [What Is a Servlet?](http://docs.oracle.com/javaee/5/tutorial/doc/bnafe.html)
 
-
-http://docs.oracle.com/javaee/5/tutorial/doc/bnafe.html
