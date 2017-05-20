@@ -16,6 +16,7 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 6. [A Little Lazy Lambda Tutorial](#lambda)
 7. [CDI](#cdi)
 8. [Testing](#testing)
+9. [Servlet](#servlet)
 
 <h2 id="java9">Java 9</h2>
 
@@ -47,3 +48,11 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 <h2 id="testing">Testing</h2>
 
 * [Unit-Level Performance Testing in Java)(May 11, 2017)](https://dzone.com/articles/unit-level-performance-testing-in-java)
+
+
+<h2 id="servlet">Servlet</h2>
+
+* [What Is a Servlet?](http://docs.oracle.com/javaee/5/tutorial/doc/bnafe.html)
+
+
+http://docs.oracle.com/javaee/5/tutorial/doc/bnafe.html
