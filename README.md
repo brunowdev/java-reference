@@ -20,6 +20,7 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 
 <h2 id="java9">Java 9</h2>
 
+* [Java SE 9: What's New? (May 28, 2017)](https://dzone.com/articles/java-se-9-whats-new)
 * [What's New in Java 9? (Besides Modules) (May 8, 2017)](https://dzone.com/articles/java-9-besides-modules)
 * [Java 9 (Part 5): Flow With the New Reactive Streams, First Look (May 1, 2017)](https://dzone.com/articles/java-9-tutorial-flow-with-the-new-reactive-streams)
 
