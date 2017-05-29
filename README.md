@@ -17,6 +17,7 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 7. [CDI](#cdi)
 8. [Testing](#testing)
 9. [Servlet](#servlet)
+10. [Generics](#generics)
 
 <h2 id="java9">Java 9</h2>
 
@@ -54,4 +55,9 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 <h2 id="servlet">Servlet</h2>
 
 * [What Is a Servlet?](http://docs.oracle.com/javaee/5/tutorial/doc/bnafe.html)
+
+<h2 id="generics">Generics</h2>
+
+* [Diamond operator and anonymous classes](http://mail.openjdk.java.net/pipermail/coin-dev/2011-June/003283.html)
+
 
