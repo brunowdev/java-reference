@@ -10,6 +10,11 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 
 1. [Canal SouJava](https://www.youtube.com/channel/UCH0qj1HFZ9jy0w87YfMSA7w)
 
+## Grupos e canais de discussão
+
+* [Java EE official group](https://javaee.groups.io/g/javaee)
+* [Another groups](https://javaee.groups.io/g/javaee/subgroups)
+
 ## Tópicos
 
 1. [Java 9](#java9)
