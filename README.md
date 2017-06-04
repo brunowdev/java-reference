@@ -24,16 +24,16 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 
 ## Tópicos
 
-1. [Java 9](#java9)
-2. [Java EE 8](#javaee8)
-3. [WebSocket](#wsocket)
-4. [ClassLoader and Javassist](#classLoader)
-5. [Schedule Tasks](#stask)
-6. [A Little Lazy Lambda Tutorial](#lambda)
-7. [CDI](#cdi)
-8. [Testing](#testing)
-9. [Servlet](#servlet)
-10. [Generics](#generics)
+* [Java 9](#java9)
+* [Java EE 8](#javaee8)
+* [WebSocket](#wsocket)
+* [ClassLoader and Javassist](#classLoader)
+* [Schedule Tasks](#stask)
+* [A Little Lazy Lambda Tutorial](#lambda)
+* [CDI](#cdi)
+* [Testing](#testing)
+* [Servlet](#servlet)
+* [Generics](#generics)
 
 <h2 id="java9">Java 9</h2>
 
