@@ -4,6 +4,9 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 
 ## Tópicos
 
+* [Repositório das API's do Java EE](#jeesc)
+* [Grupos e canais de discussão](#gcd)
+* [Canais, Blogs, Sites, etc.](#cbse)
 * [JSR's](#jsrs)
 * [Java 9](#java9)
 * [Java EE 8](#javaee8)
@@ -16,15 +19,17 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 * [Servlet](#servlet)
 * [Generics](#generics)
 
-## Repositório das API's do Java EE
+
+<h2 id="jeesc">Repositório das API's do Java EE</h2>
+
 * [Java EE no github](https://javaee.github.io/)
 
-
-## Canais, Blogs, Sites, etc.
+<h2 id="cbse">Canais, Blogs, Sites, etc.</h2>
 
 * [Canal SouJava](https://www.youtube.com/channel/UCH0qj1HFZ9jy0w87YfMSA7w)
 
-## Grupos e canais de discussão
+
+<h2 id="gcd">Grupos e canais de discussão</h2>
 
 * [Java EE official group](https://javaee.groups.io/g/javaee)
 * [Another groups](https://javaee.groups.io/g/javaee/subgroups)
