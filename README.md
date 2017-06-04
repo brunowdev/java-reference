@@ -15,6 +15,13 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 * [Java EE official group](https://javaee.groups.io/g/javaee)
 * [Another groups](https://javaee.groups.io/g/javaee/subgroups)
 
+## JSR's
+
+* [Adopt a JSR](https://github.com/Adopt-a-JSR)
+* [Mais sobre o Adote uma JSR](https://blogs.oracle.com/java/adopt-a-jsr)
+* [Mais sobre o Adote uma JSR na comunidade](https://community.oracle.com/community/java/jcp/adopt-a-jsr)
+
+
 ## Tópicos
 
 1. [Java 9](#java9)
