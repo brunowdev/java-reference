@@ -2,6 +2,20 @@
 
 Este repositório contém referências sobre alguns tópicos importantes do Java, JavaEE.
 
+## Tópicos
+
+* [JSR's](#jsrs)
+* [Java 9](#java9)
+* [Java EE 8](#javaee8)
+* [WebSocket](#wsocket)
+* [ClassLoader and Javassist](#classLoader)
+* [Schedule Tasks](#stask)
+* [A Little Lazy Lambda Tutorial](#lambda)
+* [CDI](#cdi)
+* [Testing](#testing)
+* [Servlet](#servlet)
+* [Generics](#generics)
+
 ## Repositório das API's do Java EE
 * [Java EE no github](https://javaee.github.io/)
 
@@ -15,25 +29,11 @@ Este repositório contém referências sobre alguns tópicos importantes do Java
 * [Java EE official group](https://javaee.groups.io/g/javaee)
 * [Another groups](https://javaee.groups.io/g/javaee/subgroups)
 
-## JSR's
+<h2 id="jsrs">JSR's</h2>
 
 * [Adopt a JSR](https://github.com/Adopt-a-JSR)
 * [Mais sobre o Adote uma JSR](https://blogs.oracle.com/java/adopt-a-jsr)
 * [Mais sobre o Adote uma JSR na comunidade](https://community.oracle.com/community/java/jcp/adopt-a-jsr)
-
-
-## Tópicos
-
-* [Java 9](#java9)
-* [Java EE 8](#javaee8)
-* [WebSocket](#wsocket)
-* [ClassLoader and Javassist](#classLoader)
-* [Schedule Tasks](#stask)
-* [A Little Lazy Lambda Tutorial](#lambda)
-* [CDI](#cdi)
-* [Testing](#testing)
-* [Servlet](#servlet)
-* [Generics](#generics)
 
 <h2 id="java9">Java 9</h2>
 
